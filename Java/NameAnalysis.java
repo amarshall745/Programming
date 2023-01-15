@@ -1,6 +1,6 @@
 package Test;
 import java.util.Scanner;
-public class LetterAnalysis {
+public class NameAnalysis {
 
 	public static void main(String[] args) {
         inputSentence();
