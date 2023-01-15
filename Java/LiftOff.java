@@ -16,25 +16,8 @@ public class LiftOff {
 			countdown--;
 		}
 		
-		System.out.println("Liftoff!");
-		
+		System.out.println("Liftoff!");		
 	}
-	
-	public static void letters(String s) {
-		
-		System.out.println(s);
-
-		String[] sentaceArray ;
-		
-		sentaceArray =  s.split(" ");
-		
-		System.out.println(  sentaceArray[1].length());
-		
-		
-		
-		
-	}
-
 }
 
 
