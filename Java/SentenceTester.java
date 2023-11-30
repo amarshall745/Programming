@@ -75,7 +75,8 @@ public class SentenceTester {
         System.out.println("The longest word is '" + longestWordPosition + "' with " + longestWordPosition.length() + " letters");
         System.out.println("The shortest word is '" + shortestWordPosition + "' with " + shortestWordPosition.length() + " letters");
         System.out.println("The word with the most ls is '" + sentenceArray[amountOfLPosition] + "' which occurs " + amountOfL + " times\n\n");
-        inputSentence();
+        inputSentence();  
+	    //hui 
     }
 	
 }
